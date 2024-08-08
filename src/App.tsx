@@ -40,12 +40,11 @@ function App() {
     <Loader />
   ) : (
     <Routes>
-      {/* Routes outside DefaultLayout */}
       <Route
         path="/masuk"
         element={
           <>
-            <PageTitle title="Signin | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+            <PageTitle title="Masuk" />
             <SignIn />
           </>
         }
@@ -54,25 +53,14 @@ function App() {
         path="/daftar"
         element={
           <>
-            <PageTitle title="Signup | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+            <PageTitle title="Daftar" />
             <SignUp />
           </>
         }
       />
-
-      {/* Routes within DefaultLayout */}
       <Route element={<DefaultLayout />}>
         <Route
           index
-          element={
-            <>
-              <PageTitle title="eCommerce Dashboard | TailAdmin - Tailwind CSS Admin Dashboard Template" />
-              <ECommerce />
-            </>
-          }
-        />
-        <Route
-          path="dashxyz"
           element={
             <>
               <PageTitle title="Dashboard" />
@@ -125,7 +113,7 @@ function App() {
             </>
           }
         />
-        <Route
+        {/* <Route
           path="calendar"
           element={
             <>
@@ -205,7 +193,7 @@ function App() {
               <Buttons />
             </>
           }
-        />
+        /> */}
       </Route>
     </Routes>
   );
