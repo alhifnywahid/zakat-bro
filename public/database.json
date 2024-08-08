@@ -1,0 +1,84 @@
+{
+  "bobot_kriteria": [
+    {
+      "nama": "Ahmad Zubairi",
+      "c1": 4,
+      "c2": 6,
+      "c3": 9,
+      "c4": 8,
+      "c5": 4
+    },
+    {
+      "nama": "Siti Aminah",
+      "c1": 1,
+      "c2": 3,
+      "c3": 1,
+      "c4": 6,
+      "c5": 3
+    },
+    {
+      "nama": "Budi Santoso",
+      "c1": 2,
+      "c2": 6,
+      "c3": 1,
+      "c4": 3,
+      "c5": 4
+    },
+    {
+      "nama": "Dewi Sartika",
+      "c1": 3,
+      "c2": 3,
+      "c3": 4,
+      "c4": 6,
+      "c5": 9
+    },
+    {
+      "nama": "Rizky Pratama",
+      "c1": 8,
+      "c2": 9,
+      "c3": 6,
+      "c4": 2,
+      "c5": 1
+    },
+    {
+      "nama": "Nurul Hidayah",
+      "c1": 2,
+      "c2": 7,
+      "c3": 4,
+      "c4": 6,
+      "c5": 5
+    },
+    {
+      "nama": "Agus Wijaya",
+      "c1": 6,
+      "c2": 9,
+      "c3": 1,
+      "c4": 6,
+      "c5": 3
+    },
+    {
+      "nama": "Fitriani Safitri",
+      "c1": 4,
+      "c2": 7,
+      "c3": 3,
+      "c4": 10,
+      "c5": 8
+    },
+    {
+      "nama": "Hendra Setiawan",
+      "c1": 6,
+      "c2": 5,
+      "c3": 4,
+      "c4": 9,
+      "c5": 2
+    },
+    {
+      "nama": "Lina Marlina",
+      "c1": 8,
+      "c2": 8,
+      "c3": 5,
+      "c4": 6,
+      "c5": 8
+    }
+  ]
+}
